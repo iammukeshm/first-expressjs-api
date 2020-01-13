@@ -1,0 +1,14 @@
+{
+  "name": "first-expressjs-api",
+  "version": "1.0.0",
+  "description": "a very simple express js api that explains the basics of the api's workflow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Murugan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
